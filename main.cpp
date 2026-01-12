@@ -4,7 +4,7 @@
 
 int main() {
     int A = 0, B = 0;
-    int finish = 10;
+    int finish = 100;
     int i;
 
     printf("Cursa de masini\n\n");
@@ -42,3 +42,4 @@ int main() {
 
     return 0;
 }
+
