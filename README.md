@@ -1,6 +1,6 @@
 Proiect Examen - Cursa de Masini
 
-Acesta este un program simplu realizat in C++ pentru examenul de programare. 
+Acesta este un program simplu realizat in C pentru examenul de programare. 
 
 Descriere:
 
@@ -15,5 +15,5 @@ Cum functioneaza:
 
 Tehnologii utilizate:
 
-- Limbajul C++
+- Limbajul C
 - Mediu de dezvoltare: Code::Blocks
